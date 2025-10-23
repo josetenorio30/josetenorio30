@@ -1,48 +1,52 @@
 <!-- 🌟 README PROFESIONAL - José Tenorio Visbal -->
+
+<!-- 🧠 Banner Superior -->
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0078D4&center=true&vCenter=true&width=700&lines=¡Hola!+Soy+José+Tenorio+Visbal;Desarrollador+Full+Stack+.NET,+Java+y+PHP;Apasionado+por+la+tecnología+y+el+código+limpio;¡Bienvenido+a+mi+perfil!+🚀" alt="Bienvenida animada" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0078D4,100:001F3F&text=José%20Tenorio%20Visbal%20🚀&fontColor=FFFFFF&fontSize=45&fontAlignY=38&animation=twinkling&desc=Desarrollador%20Full%20Stack%20|%20.NET%20%7C%20Java%20%7C%20PHP&descAlignY=55&descAlign=50"/>
+</p>
+
+<!-- 👁️ Contador de Visitas -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=josetenorio30&label=👁️+Visitas+al+perfil&color=0078D4&style=for-the-badge" alt="Contador de visitas"/>
 </p>
 
 ---
 
 ## 👨‍💻 Sobre mí
 
-Soy un **Desarrollador Full Stack** (10º semestre de Ingeniería de Sistemas) con experiencia en el diseño y despliegue de **soluciones empresariales escalables**.  
-Apasionado por el **código limpio**, la **automatización con Docker/Azure** y las **arquitecturas basadas en microservicios**.  
+Soy un **Desarrollador Full Stack** (10º semestre de Ingeniería de Sistemas) Con mas de 4 años de experiencia, apasionado por construir **soluciones robustas y escalables**.  
+Me enfoco en combinar la **eficiencia técnica** con la **simplicidad arquitectónica**, impulsando proyectos con **automatización, rendimiento y calidad**.
 
-💡 Me motiva convertir ideas en software que realmente aporte valor.
-
-> _“La elegancia del código está en su simplicidad y propósito.”_
+💬 _"El código perfecto no solo funciona, también se entiende."_  
+⚡ *Crecimiento continuo, aprendizaje constante y mejora diaria.*
 
 ---
 
-## ⚙️ Experiencia y Especialización
+## ⚙️ Experiencia Profesional
 
-- 🏢 **Desarrollador II** — optimización de rendimiento y desarrollo de nuevos features corporativos.  
-- 💰 **Integración de Facturación Electrónica con la DIAN** en múltiples compañías.  
-- ☁️ **Experiencia DevOps:** Docker, Kubernetes, Azure DevOps y CI/CD.  
-- 🧾 **Reportes avanzados:** Stimulsoft, Power BI.  
-- 🧠 Aplicación constante de **principios SOLID** y buenas prácticas.
+- 🏢 **Desarrollador II:** desarrollo de funcionalidades críticas y optimización de rendimiento en aplicaciones empresariales.  
+- 💰 **Integración de Facturación Electrónica (DIAN):** líder técnico en automatización y validación de documentos fiscales.  
+- ☁️ **DevOps:** experiencia con **Docker, Kubernetes y Azure DevOps (CI/CD)**.  
+- 📊 **Analítica y Reporting:** diseño de reportes inteligentes con **Stimulsoft y Power BI**.  
+- 🧠 **Principios SOLID y Arquitectura Limpia** aplicados a entornos reales.
 
 ---
 
 ## 💻 Stack Tecnológico
 
-#### 🚀 Lenguajes & Frameworks
+### 🚀 Lenguajes & Frameworks
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,php,laravel,symfony,js,react,angular,html,css" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,php,laravel,symfony,js,react,angular,html,css,ts" />
 </p>
 
-#### 🧩 Bases de Datos
+### 🧩 Bases de Datos
 <p align="center">
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mssql" />
 </p>
 
-#### ☁️ Cloud & DevOps
+### ☁️ Cloud & DevOps
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=azure,docker,kubernetes,git,github,postman,powershell" />
+  <img src="https://skillicons.dev/icons?i=azure,docker,kubernetes,git,github,postman,powershell,linux" />
 </p>
 
 ---
@@ -51,11 +55,11 @@ Apasionado por el **código limpio**, la **automatización con Docker/Azure** y 
 
 | 🌟 Proyecto | 📄 Descripción | 🧰 Tecnologías |
 |-------------|----------------|----------------|
-| [💼 Integrador DIAN](https://github.com/josetenorio30/integrador-dian) | Sistema completo de facturación electrónica con validación y envío automático a la DIAN. | .NET Core · SQL Server · Azure |
-| [🏥 Módulo Diagnóstico Clínico](https://github.com/josetenorio30/modulo-diagnostico) | Plataforma hospitalaria con reportes avanzados (Stimulsoft) y gestión de usuarios. | Java · Spring Boot · PostgreSQL |
-| [🌐 Portal Empresarial](https://github.com/josetenorio30/portal-empresarial) | Dashboard web con métricas financieras en tiempo real. | React · Laravel · MySQL |
+| [💼 **Integrador DIAN**](https://github.com/josetenorio30/integrador-dian) | Sistema de facturación electrónica con validación y envío automático a la DIAN. | .NET Core · SQL Server · Azure |
+| [🏥 **Módulo Diagnóstico Clínico**](https://github.com/josetenorio30/modulo-diagnostico) | Aplicación hospitalaria con reportes Stimulsoft y gestión de usuarios. | Java · Spring Boot · PostgreSQL |
+| [🌐 **Portal Empresarial**](https://github.com/josetenorio30/portal-empresarial) | Dashboard web con métricas financieras en tiempo real. | React · Laravel · MySQL |
 
-> 🔎 Explora todos mis repositorios [aquí](https://github.com/josetenorio30?tab=repositories).
+> 🔍 Ver más proyectos en [mis repositorios](https://github.com/josetenorio30?tab=repositories).
 
 ---
 
@@ -68,7 +72,7 @@ Apasionado por el **código limpio**, la **automatización con Docker/Azure** y 
 
 ---
 
-## 📈 Actividad Reciente
+## 📈 Actividad y Contribuciones
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=josetenorio30&theme=tokyonight&hide_border=true" height="180em" alt="Racha de contribuciones"/>
@@ -76,15 +80,11 @@ Apasionado por el **código limpio**, la **automatización con Docker/Azure** y 
 
 ---
 
-## 🐍 Culebrita de Contribuciones
 
-<p align="center">
-  <img src="https://github.com/josetenorio30/josetenorio30/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
 
 ---
 
-## 🎓 Formación
+## 🎓 Formación Académica
 
 🎓 **Ingeniería de Sistemas** – CUN (10º Semestre)  
 💻 **Tecnólogo en Desarrollo de Software** – SENA  
@@ -95,16 +95,22 @@ Apasionado por el **código limpio**, la **automatización con Docker/Azure** y 
 
 <p align="center">
   <a href="https://linkedin.com/in/josetenorio-visbal" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0078D4?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:josevisbal2@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/josetenorio30">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
-⭐ *“Cada línea de código es una oportunidad para crear algo significativo.”*
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:001F3F,100:0078D4&section=footer"/>
+</p>
+
+<p align="center">
+  <b>⭐ “Cada línea de código es una oportunidad para crear algo que inspire.” ⭐</b>
+</p>

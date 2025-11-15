@@ -1,45 +1,45 @@
-<!-- 🌟 README PROFESIONAL - José Tenorio Visbal -->
+<!-- 🌟 PROFESSIONAL README - José Tenorio Visbal -->
 
-<!-- 🧠 Banner Superior -->
+<!-- 🧠 Top Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0078D4,100:001F3F&text=José%20Tenorio%20Visbal%20🚀&fontColor=FFFFFF&fontSize=45&fontAlignY=38&animation=twinkling&desc=Desarrollador%20Full%20Stack%20|%20.NET%20%7C%20Java%20%7C%20PHP&descAlignY=55&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0078D4,100:001F3F&text=José%20Tenorio%20Visbal%20🚀&fontColor=FFFFFF&fontSize=45&fontAlignY=38&animation=twinkling&desc=Full%20Stack%20Developer%20|%20.NET%20%7C%20Java%20%7C%20PHP&descAlignY=55&descAlign=50"/>
 </p>
 
-<!-- 👁️ Contador de Visitas -->
+<!-- 👁️ Profile Views Counter -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=josetenorio30&label=👁️+Visitas+al+perfil&color=0078D4&style=for-the-badge" alt="Contador de visitas"/>
+  <img src="https://komarev.com/ghpvc/?username=josetenorio30&label=👁️+Profile+Views&color=0078D4&style=for-the-badge" alt="Profile views counter"/>
 </p>
 
 ---
 
-## 👨‍💻 Sobre mí
+## 👨‍💻 About Me
 
-Soy un **Desarrollador Full Stack** (10º semestre de Ingeniería de Sistemas) Con mas de 4 años de experiencia, apasionado por construir **soluciones robustas y escalables**.  
-Me enfoco en combinar la **eficiencia técnica** con la **simplicidad arquitectónica**, impulsando proyectos con **automatización, rendimiento y calidad**.
+I am a **Full Stack Developer** (10th semester of Software Engineering) with more than 4 years of experience, passionate about building **robust and scalable solutions**.  
+I focus on combining **technical efficiency** with **clean and simple architecture**, driving projects with **automation, performance, and quality**.
 
-💬 _"El código perfecto no solo funciona, también se entiende."_  
-⚡ *Crecimiento continuo, aprendizaje constante y mejora diaria.*
-
----
-
-## ⚙️ Experiencia Profesional
-
-- 🏢 **Desarrollador II:** desarrollo de funcionalidades críticas y optimización de rendimiento en aplicaciones empresariales.  
-- 💰 **Integración de Facturación Electrónica (DIAN):** líder técnico en automatización y validación de documentos fiscales.  
-- ☁️ **DevOps:** experiencia con **Docker, Kubernetes y Azure DevOps (CI/CD)**.  
-- 📊 **Analítica y Reporting:** diseño de reportes inteligentes con **Stimulsoft y Power BI**.  
-- 🧠 **Principios SOLID y Arquitectura Limpia** aplicados a entornos reales.
+💬 _"Perfect code not only works — it is understood."_  
+⚡ *Continuous growth, constant learning, and daily improvement.*
 
 ---
 
-## 💻 Stack Tecnológico
+## ⚙️ Professional Experience
 
-### 🚀 Lenguajes & Frameworks
+- 🏢 **Developer II:** development of critical features and performance optimization in enterprise applications.  
+- 💰 **Electronic Invoicing Integration (DIAN):** technical lead in automation and validation of fiscal documents.  
+- ☁️ **DevOps:** experience with **Docker, Kubernetes, and Azure DevOps (CI/CD)**.  
+- 📊 **Analytics & Reporting:** design of intelligent reports using **Stimulsoft and Power BI**.  
+- 🧠 **SOLID Principles and Clean Architecture** applied in real-world environments.
+
+---
+
+## 💻 Tech Stack
+
+### 🚀 Languages & Frameworks
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,php,laravel,symfony,js,react,angular,html,css,ts" />
 </p>
 
-### 🧩 Bases de Datos
+### 🧩 Databases
 <p align="center">
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mssql" />
 </p>
@@ -51,47 +51,43 @@ Me enfoco en combinar la **eficiencia técnica** con la **simplicidad arquitect�
 
 ---
 
-## 🧠 Proyectos Destacados
+## 🧠 Featured Projects
 
-| 🌟 Proyecto | 📄 Descripción | 🧰 Tecnologías |
-|-------------|----------------|----------------|
-| [💼 **Integrador DIAN**](https://github.com/josetenorio30/integrador-dian) | Sistema de facturación electrónica con validación y envío automático a la DIAN. | .NET Core · SQL Server · Azure |
-| [🏥 **Módulo Diagnóstico Clínico**](https://github.com/josetenorio30/modulo-diagnostico) | Aplicación hospitalaria con reportes Stimulsoft y gestión de usuarios. | Java · Spring Boot · PostgreSQL |
-| [🌐 **Portal Empresarial**](https://github.com/josetenorio30/portal-empresarial) | Dashboard web con métricas financieras en tiempo real. | React · Laravel · MySQL |
+| 🌟 Project | 📄 Description | 🧰 Technologies |
+|-----------|----------------|-----------------|
+| [💼 **DIAN Integrator**](https://github.com/josetenorio30/integrador-dian) | Electronic invoicing system with automatic validation and delivery to DIAN. | .NET Core · SQL Server · Azure |
+| [🏥 **Clinical Diagnostic Module**](https://github.com/josetenorio30/modulo-diagnostico) | Hospital application with Stimulsoft reports and user management. | Java · Spring Boot · PostgreSQL |
+| [🌐 **Business Portal**](https://github.com/josetenorio30/portal-empresarial) | Web dashboard with real-time financial metrics. | React · Laravel · MySQL |
 
-> 🔍 Ver más proyectos en [mis repositorios](https://github.com/josetenorio30?tab=repositories).
+> 🔍 See more projects in my [repositories](https://github.com/josetenorio30?tab=repositories).
 
 ---
 
-## 📊 Estadísticas de GitHub
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=josetenorio30&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true" height="180em" alt="Estadísticas de GitHub"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josetenorio30&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="180em" alt="Lenguajes más usados"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=josetenorio30&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true" height="180em" alt="GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josetenorio30&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="180em" alt="Most used languages"/>
 </p>
 
 ---
 
-## 📈 Actividad y Contribuciones
+## 📈 Activity & Contributions
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=josetenorio30&theme=tokyonight&hide_border=true" height="180em" alt="Racha de contribuciones"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=josetenorio30&theme=tokyonight&hide_border=true" height="180em" alt="Contribution streak"/>
 </p>
 
 ---
 
+## 🎓 Academic Background
 
-
----
-
-## 🎓 Formación Académica
-
-🎓 **Ingeniería de Sistemas** – CUN (10º Semestre)  
-💻 **Tecnólogo en Desarrollo de Software** – SENA  
+🎓 **Software Engineering** – CUN (10th Semester)  
+💻 **Software Development Technologist** – SENA  
 
 ---
 
-## 🌐 Conectemos
+## 🌐 Connect with Me
 
 <p align="center">
   <a href="https://linkedin.com/in/josetenorio-visbal" target="_blank">
@@ -112,5 +108,5 @@ Me enfoco en combinar la **eficiencia técnica** con la **simplicidad arquitect�
 </p>
 
 <p align="center">
-  <b>⭐ “Cada línea de código es una oportunidad para crear algo que inspire.” ⭐</b>
+  <b>⭐ “Every line of code is an opportunity to create something inspiring.” ⭐</b>
 </p>
